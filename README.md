@@ -29,8 +29,17 @@ vagrant up
 ```
 You should now be able to see “It works!” at [http://localhost:8000/](http://localhost:8000/).
 
+Accessing
+---------
+
+```shell
+vagrant ssh
+```
+
 Testing Changes
--------
+---------------
+
+You can modify the `playbook.yml` and `Vagrantfile` to test.
 
 ```shell
 vagrant provision
