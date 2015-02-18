@@ -18,7 +18,7 @@ Getting the code
 ----------------
 
 ```shell
-git clone https://github.com/jeinnovate/
+git clone https://github.com/jeinnovate/vargant-ansible-demo.git
 ```
 
 Creating
